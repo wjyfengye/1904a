@@ -1,0 +1,7 @@
+<xml><ToUserName><![CDATA[gh_fb7b3faf5191]]></ToUserName>
+<FromUserName><![CDATA[oQmvfvyES3U2bFMIfoGKPQHTloBE]]></FromUserName>
+<CreateTime>1573303995</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[邯郸天气]]></Content>
+<MsgId>22524297261107327</MsgId>
+</xml>
